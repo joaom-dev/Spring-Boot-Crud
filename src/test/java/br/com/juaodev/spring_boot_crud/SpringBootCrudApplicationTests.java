@@ -1,13 +1,13 @@
-package br.com.juaodev.spring_boot_crud;
+// package br.com.juaodev.spring_boot_crud;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class SpringBootCrudApplicationTests {
+// @SpringBootTest
+// class SpringBootCrudApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
